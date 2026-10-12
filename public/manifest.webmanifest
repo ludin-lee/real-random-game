@@ -1,0 +1,10 @@
+{
+  "name": "Bloom Blocks",
+  "short_name": "Bloom Blocks",
+  "start_url": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#1d1640",
+  "theme_color": "#1d1640",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
